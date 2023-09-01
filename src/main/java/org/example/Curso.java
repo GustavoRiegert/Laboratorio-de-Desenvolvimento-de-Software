@@ -14,10 +14,6 @@ public class Curso {
     public Curso(String nome, int numeroCreditos) {
         this.nome = nome;
         this.numeroCreditos = numeroCreditos;
-        List<Grade> grade = new ArrayList<>();
-    }
-
-    private void gerarCurriculo(){
-
+        this.grade = new ArrayList<>();
     }
 }

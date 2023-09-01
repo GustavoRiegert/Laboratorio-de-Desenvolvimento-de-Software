@@ -15,7 +15,7 @@ public class Aluno extends Usuario{
     private boolean isInadimplente;
 
     public boolean isInadimplente() {
-        return inadimplente;
+        return isInadimplente;
     }
 
     public Aluno(String nome, Curso curso, String senha) {
