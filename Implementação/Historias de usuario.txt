@@ -1,0 +1,24 @@
+Eu, como usuário, gostaria de poder realizar login para acessar o sistema
+
+Eu, como secretaria, gostaria de poder gerenciar disciplinas, para poder adicionar alunos, professores e realizar as alterações necessárias.
+Eu, como secretaria, gostaria de poder gerenciar disciplinas, para poder adicionar novas disciplinas e trancar disciplinas sem alunos suficientes
+Eu, como secretaria, gostaria de poder gerenciar professores, para poder adicionar novos professores, e alterar os dados dos professores.
+Eu, como secretaria, gostaria de poder gerenciar Alunos, para poder adicionar novos alunos, e alterar os dados dos alunos.
+Eu, como secretaria, gostaria de poder gerar curriculo de cada curso, 
+Eu, como secretaria, gostaria de poder gerenciar pagamentos, para poder realizar as devidas conferências e cobranças.
+Critérios de aceite: 
+● Cada curso tem um nome, um determinado número de créditos e é constituído por diversas disciplinas. 
+● O número máximo de alunos inscritos a uma disciplina é de 60 e quando este número é atingido, as inscrições (matrículas) para essa disciplina são encerradas 
+
+Eu, como aluno, gostaria de gerenciar matrícula, para poder realizar a matrícula, ou trancar ela.
+Eu, como aluno, gostaria de gerenciar disciplinas obrigatórias, para poder realizar a adesão de uma matéria, ou trancar ela.
+Eu, como aluno, gostaria de gerenciar disciplinas opcionais, para poder realizar a adesão de uma matéria, ou trancar ela.
+Eu, como aluno, gostaria de gerenciar pagamentos, para poder realizar o pagamento de uma mensalidade, verificar dívidas e verificar pagamentos realizados
+Critérios de aceite: 
+● Os alunos podem se matricular em 4 disciplinas como 1ª opção (obrigatórias) e em mais 2 outras alternativas (optativas). 
+● Há períodos para efetuar matrículas, durante os quais um aluno pode acessar o sistema para se matricular em disciplinas.
+● Há períodos para cancelar matrículas, durante os quais um aluno pode acessar o sistema para cancelar matrículas feitas anteriormente.
+
+Eu, como professor, gostaria de visualizar disciplinas, para poder realizar o lançamento de faltas, notas e verificar alunos matriculados.
+Critérios de aceite: 
+● Acessar o sistema para saber quais são os alunos que estão matriculados em cada disciplina. Como professor, gostaria de uma lista com todos os alunos matriculados em cada disciplina para poder visualizar os nomes e a quantidade de alunos das minhas disciplinas.
